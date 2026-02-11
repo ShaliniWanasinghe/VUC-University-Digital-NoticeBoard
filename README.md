@@ -272,7 +272,13 @@ This creates sample users (admin, moderator, student) and notices across various
 
 ## 📸 Screenshots
 
-> _Add screenshots of your application here._
+<img width="1919" height="1039" alt="Student Dashboard" src="https://github.com/user-attachments/assets/5cf6b3bb-c0a7-4991-8c50-efb494f07aa3" />
+
+<img width="1919" height="934" alt="admin approve" src="https://github.com/user-attachments/assets/a52f96c3-77dc-4ca0-b2e3-85e410d02d6f" /><img width="1909" height="795" alt="Screenshot 2026-02-10 124730" src="https://github.com/user-attachments/assets/52b2b1af-bc7e-49c4-9998-e1afc8a1a23c" />
+
+<img width="1919" height="934" alt="admin approve" src="https://github.com/user-attachments/assets/8<img width="1914" height="913" alt="ad dashboard" src="https://github.com/user-attachments/assets/2efc102b-cbf3-4938-b570-1a58b4c1adc8" />
+8888c2d-6f69-4a25-813c-fda80fafcde2" />
+
 
 ---
 
@@ -281,9 +287,3 @@ This creates sample users (admin, moderator, student) and notices across various
 This project is licensed under the **ISC License**.
 
 
-<img width="1919" height="1039" alt="Student Dashboard" src="https://github.com/user-attachments/assets/5cf6b3bb-c0a7-4991-8c50-efb494f07aa3" />
-
-<img width="1919" height="934" alt="admin approve" src="https://github.com/user-attachments/assets/a52f96c3-77dc-4ca0-b2e3-85e410d02d6f" /><img width="1909" height="795" alt="Screenshot 2026-02-10 124730" src="https://github.com/user-attachments/assets/52b2b1af-bc7e-49c4-9998-e1afc8a1a23c" />
-
-<img width="1919" height="934" alt="admin approve" src="https://github.com/user-attachments/assets/8<img width="1914" height="913" alt="ad dashboard" src="https://github.com/user-attachments/assets/2efc102b-cbf3-4938-b570-1a58b4c1adc8" />
-8888c2d-6f69-4a25-813c-fda80fafcde2" />
