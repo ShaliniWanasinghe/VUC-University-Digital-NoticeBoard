@@ -1,4 +1,4 @@
-# 🎓 VUC — Virtual University Communicator
+# 🎓 VUC — Vavuniya University Connect
 
 A full-stack **Digital Notice Board** application built for university environments. VUC enables administrators and moderators to publish notices across categories, while students can browse, filter, and stay informed — all through a modern, responsive web interface.
 
